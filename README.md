@@ -35,4 +35,5 @@ This site showcases my work, background, and passions.
 
 I’m **Blessing Wallin**, a developer passionate about crafting experiences that solve real-world problems through creativity and innovation.
 
+Developed by [Blessing Wallin](https://github.com/blessingwallin)
 
