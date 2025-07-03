@@ -1,25 +1,39 @@
-# Blessing Wallin Personal Portfolio Website
+# Blessing Wallin Portfolio 
 
-This is a responsive personal website built using Bootstrap (HTML, CSS, and JavaScript). The website showcases my resume, professional experiences, projects, and contact information.
+Welcome to the source code of my personal portfolio website!  
+This site showcases my work, background, and passions.
 
-## 🚀 Live Preview
+**Live Site**: [https:/blessingwallin.click](https://blessingwallin.click)  
 
-live URL
+---
 
-## 🛠️ Technologies Used
+## Features
 
-- HTML5
-- CSS3 
-- JavaScript 
-- [Bootstrap 5](https://getbootstrap.com/)
-- [Google Fonts – Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
-- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- Modern and responsive design
+- Built with HTML5, CSS3, and Bootstrap
+- Dedicated pages for:
+  - Home
+  - Resume
+  - Projects
+  - Contact
 
-## 📌 Features
+---
 
-- Responsive design for mobile and desktop
-- Clear navigation bar across all pages
-- Resume section with downloadable `.docx` file
-- Project cards with images and descriptions
-- Contact call-to-action with a button
-- Custom professional and language skills lists
+## Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Google Fonts**
+- **Bootstrap Icons**
+
+---
+
+## About Me
+
+> *"Together, let’s create thoughtful, human-centered tech."*
+
+I’m **Blessing Wallin**, a developer passionate about crafting experiences that solve real-world problems through creativity and innovation.
+
+Developed by [Blessing Wallin](https://github.com/blessingwallin)
+
